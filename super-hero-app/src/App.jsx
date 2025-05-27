@@ -2,8 +2,6 @@
 import Card from "./comp/card"
 
 
-
-
 function App() {
   // const [catFact, setCatFact] = useState('');
 
